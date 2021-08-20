@@ -1,0 +1,8 @@
+﻿  Lab2.cpp
+F:\C++\course\Lab_Exercise\Lab_Exercise\Lab2\Lab2.cpp(40,6): warning C4101: 'result': unreferenced local variable
+F:\C++\course\Lab_Exercise\Lab_Exercise\Lab2\Lab2.cpp(41,19): warning C4101: 'numberArray': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 280 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project2.vcxproj -> F:\C++\course\Lab_Exercise\Lab_Exercise\Lab4\Project2\x64\Release\Project2.exe

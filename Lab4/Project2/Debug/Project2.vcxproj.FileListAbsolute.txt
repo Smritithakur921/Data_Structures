@@ -1,0 +1,2 @@
+F:\C++\course\Lab_Exercise\Lab_Exercise\Lab4\Project2\Debug\Project2.exe
+F:\C++\course\Lab_Exercise\Lab_Exercise\Lab4\Project2\Debug\Project2.pdb

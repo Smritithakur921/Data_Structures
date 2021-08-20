@@ -1,0 +1,4 @@
+﻿  Lab2.cpp
+F:\C++\course\Lab_Exercise\Lab_Exercise\Lab2\Lab2.cpp(16,6): warning C4101: 'result': unreferenced local variable
+F:\C++\course\Lab_Exercise\Lab_Exercise\Lab2\Lab2.cpp(17,19): warning C4101: 'numberArray': unreferenced local variable
+  Project2.vcxproj -> F:\C++\course\Lab_Exercise\Lab_Exercise\Lab4\Project2\Debug\Project2.exe
