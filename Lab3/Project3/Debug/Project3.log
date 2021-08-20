@@ -1,0 +1,3 @@
+﻿  Lab3_template.cpp
+F:\C++\course\Lab_Exercise\Lab_Exercise\Lab3\Lab3_template.cpp(72,16): warning C4018: '>=': signed/unsigned mismatch
+  Project3.vcxproj -> F:\C++\course\Lab_Exercise\Lab_Exercise\Lab3\Project3\Debug\Project3.exe
